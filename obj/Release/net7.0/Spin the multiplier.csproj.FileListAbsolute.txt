@@ -1,0 +1,15 @@
+D:\Spin the multiplier\bin\Release\net7.0\Spin the multiplier.exe
+D:\Spin the multiplier\bin\Release\net7.0\Spin the multiplier.deps.json
+D:\Spin the multiplier\bin\Release\net7.0\Spin the multiplier.runtimeconfig.json
+D:\Spin the multiplier\bin\Release\net7.0\Spin the multiplier.dll
+D:\Spin the multiplier\bin\Release\net7.0\Spin the multiplier.pdb
+D:\Spin the multiplier\obj\Release\net7.0\Spin the multiplier.csproj.AssemblyReference.cache
+D:\Spin the multiplier\obj\Release\net7.0\Spin the multiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spin the multiplier\obj\Release\net7.0\Spin the multiplier.AssemblyInfoInputs.cache
+D:\Spin the multiplier\obj\Release\net7.0\Spin the multiplier.AssemblyInfo.cs
+D:\Spin the multiplier\obj\Release\net7.0\Spin the multiplier.csproj.CoreCompileInputs.cache
+D:\Spin the multiplier\obj\Release\net7.0\Spin the multiplier.dll
+D:\Spin the multiplier\obj\Release\net7.0\refint\Spin the multiplier.dll
+D:\Spin the multiplier\obj\Release\net7.0\Spin the multiplier.pdb
+D:\Spin the multiplier\obj\Release\net7.0\Spin the multiplier.genruntimeconfig.cache
+D:\Spin the multiplier\obj\Release\net7.0\ref\Spin the multiplier.dll

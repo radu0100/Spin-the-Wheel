@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Spin the multiplier/1.0.0": {
+        "runtime": {
+          "Spin the multiplier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spin the multiplier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
